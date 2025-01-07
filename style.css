@@ -17,10 +17,6 @@
   box-sizing: border-box;
 }
 
-ul {
-  list-style-type: none;
-}
-
 p {
   font-size: 13px;
 }
@@ -132,7 +128,7 @@ button img {
   padding: 1rem 2rem;
 
   top: 48%;
-  right: 28%;
+  right: 22%;
   border-radius: 10px;
   /* opacity: 0; */
 }
